@@ -1,0 +1,24 @@
+  body { 
+    margin: 0; 
+    padding: 0; 
+  }
+  #map { 
+    position: absolute; 
+    top: 0; 
+    bottom: 0; 
+    width: 100%; 
+  }
+  .map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 15px;  /*moved the button away from the edges*/
+  }
+  .map-overlay:hover {    /* when the button is hovered over, border appears*/
+    background: #003366;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  button {
+    font-family: 'Akaya Telivigala', cursive;  /*changed the font of the button to something cool*/
+    font-size: 2em;
+  }
