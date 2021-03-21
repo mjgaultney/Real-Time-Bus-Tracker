@@ -11,7 +11,8 @@ mapboxgl.accessToken = 'pk.eyJ1IjoibWpnYXVsdG5leSIsImEiOiJja2x6Z2gzMzEwdmZkMnVwa
 
     //This is the starting bus stop marker for our journey
     let marker = new mapboxgl.Marker({
-      color: 'red'})
+      color: 'red'
+    })
 .setLngLat([-96.806165, 32.811588])
 .addTo(map);
 
