@@ -1,6 +1,7 @@
 # Real Time Bus Tracker
+<h4>A journey to get free food</h4>
 
-<h3>To run this project: </h3>
+<h2>To run this project: </h3>
 <li>Download the code</li>
 <li>run the index.html in your favorite web browser.</li>
 <li>move your mouse over the button "Stops between parents house and my house in Dallas"</li>
